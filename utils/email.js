@@ -7,8 +7,8 @@ const sendEmail = async options=>{
         host: "smtp.mailtrap.io",
         port: 2525,
         auth: {
-          user: "56679619ab75cf",
-          pass: "8b06ffbde58d16"
+          user: // use your own
+          pass: // use your own
         }
       });
         // activate in gamil 'less secure app 'option
